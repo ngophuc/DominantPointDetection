@@ -90,7 +90,7 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 	</table>
 </p>
 
-<p>File <a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Samples/pentagonNoise4.sdp">circle50Noise4.sdp</a>: </p>&#x000A;&#x000A;
+<p>File <a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Samples/circle50Noise4.sdp">circle50Noise4.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
 <code>./ATC_Computation -i ../Samples/circle50Noise4.sdp -o ../Results/circle50Noise4 -d ../ImaGene-forIPOL &#x000A;--maxScale 10 --samplingStep 1.0</code>
 </pre>&#x000A;&#x000A;
@@ -129,7 +129,7 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 	</table>
 </p>
 
-<p>File <a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Samples/circle50.sdp">CircleRect.sdp</a>: </p>&#x000A;&#x000A;
+<p>File <a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Samples/CircleRect.sdp">CircleRect.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
 <code>./ATC_Computation -i ../Samples/CircleRect.sdp -o ../Results/CircleRect -d ../ImaGene-forIPOL &#x000A;--maxScale 10 --samplingStep 1.0</code>
 </pre>&#x000A;&#x000A;
@@ -190,11 +190,18 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 		Input curve
 		</td>
 		<td align="center" valign="center">
-			<a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4ATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4ATC.png" alt="ATC result" />
+			<a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4DP.pdf">
+				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4DP.png" alt="DP result" />
 			</a>
 		<br />
-		DominantPointDetection result
+		Dominant points (with optimisation)
+		</td>
+    <td align="center" valign="center">
+			<a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4newDP.pdf">
+				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4newDP.png" alt="DP result" />
+			</a>
+		<br />
+		Dominant points (without optimisation)
 		</td>
 		</tr>
 	</table>
