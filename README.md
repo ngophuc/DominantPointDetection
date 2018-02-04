@@ -38,14 +38,14 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/pentagonNoise4DP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (with optimisation)
+		Dominant points (without optimisation)
 		</td>
     <td align="center" valign="center">
 			<a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/pentagonNoise4newDP.pdf">
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/pentagonNoise4newDP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (without optimisation)
+		Dominant points (with optimisation)
 		</td>  
 		</tr>
 	</table>
@@ -77,14 +77,14 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/circle50DP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (with optimisation)
+		Dominant points (without optimisation)
 		</td>
     <td align="center" valign="center">
 			<a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/circle50newDP.pdf">
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/circle50newDP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (without optimisation)
+		Dominant points (with optimisation)
 		</td>
 		</tr>
 	</table>
@@ -116,14 +116,14 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/circle50Noise4DP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (with optimisation)
+		Dominant points (without optimisation)
 		</td>
     <td align="center" valign="center">
 			<a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/circle50Noise4newDP.pdf">
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/circle50Noise4newDP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (without optimisation)
+		Dominant points (with optimisation)
 		</td>
 		</tr>
 	</table>
@@ -155,14 +155,14 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/CircleRectDP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (with optimisation)
+		Dominant points (without optimisation)
 		</td>
     <td align="center" valign="center">
 			<a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/CircleRectnewDP.pdf">
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/CircleRectnewDP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (without optimisation)
+		Dominant points (with optimisation)
 		</td>
 		</tr>
 	</table>
@@ -194,14 +194,14 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/ATC_IPOLDemo/
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4DP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (with optimisation)
+		Dominant points (without optimisation)
 		</td>
     <td align="center" valign="center">
 			<a href="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4newDP.pdf">
 				<img width="150" src="https://github.com/ngophuc/DominantPointDetection/blob/master/Results/flower100Noise4newDP.png" alt="DP result" />
 			</a>
 		<br />
-		Dominant points (without optimisation)
+		Dominant points (with optimisation)
 		</td>
 		</tr>
 	</table>
